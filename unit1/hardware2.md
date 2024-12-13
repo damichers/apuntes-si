@@ -1,0 +1,3 @@
+- Hardware de dispositivos móviles
+- Mantenimiento y reparación del hardware de lso equipos
+- Proceso de arranque del sistema informático
