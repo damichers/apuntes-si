@@ -11,4 +11,5 @@ Contributors
 - LuiggiPG2002       - Luiggi Pincay 
 - James-mac-y        - James Jesús
 - Jorgegrhlm         - Jorge
+- ceeciimg           - Cecilia Molina
 - Sofiipz            - Sofía
