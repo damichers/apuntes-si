@@ -47,4 +47,3 @@ Bit: Es el trozo más pequeño de información. Puede ser 0 o 1.
 Byte: Es un conjunto de 8 bits. Un byte puede representar un número o un carácter.
 Palabra: Son conjuntos de bits (generalmente 16, 32 o 64 bits). Las palabras representan datos más grandes, como números grandes o instrucciones para la computadora.
 Los datos en la memoria de las computadoras son almacenados como secuencias de bits. Dependiendo de cuántos bits tengamos (como en una "palabra"), podemos representar cosas más complejas como números, letras o incluso imágenes. Sistemas como ASCII (para caracteres) y UTF-8 (para caracteres de todo el mundo) ayudan a almacenar y procesar textos.
-
