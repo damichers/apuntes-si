@@ -32,12 +32,13 @@ Sensor de huellas dactilares: Permite el desbloqueo del dispositivo mediante la 
 9. Placa Base (Motherboard)
 - La placa base es la tarjeta principal que conecta todos los componentes electrónicos del dispositivo móvil. Contiene el procesador, la memoria RAM, los controladores y otros circuitos necesarios para la funcionalidad del dispositivo.
 10. Puertos y Conectores
-Los puertos y conectores permiten la conexión del dispositivo con otros periféricos, como cables de carga, auriculares, o pantallas externas. Los más comunes incluyen:
+- Los puertos y conectores permiten la conexión del dispositivo con otros periféricos, como cables de carga, auriculares, o pantallas externas. Los más comunes incluyen:
+
 Puerto USB-C: Conector de carga y transferencia de datos.
 Jack de 3.5 mm: Para auriculares (en algunos modelos).
 Tarjeta SIM y microSD: Para conexión a la red móvil y expansión de almacenamiento.
 11. Sistema de Enfriamiento
-Algunos dispositivos móviles, especialmente los de gama alta, cuentan con sistemas de enfriamiento (como disipadores de calor o cámaras de vapor) para evitar el sobrecalentamiento durante el uso intensivo del procesador, como en juegos o tareas que requieren alto rendimiento.
+- Algunos dispositivos móviles, especialmente los de gama alta, cuentan con sistemas de enfriamiento (como disipadores de calor o cámaras de vapor) para evitar el sobrecalentamiento durante el uso intensivo del procesador, como en juegos o tareas que requieren alto rendimiento.
 
 
 -- Mantenimiento y reparación del hardware de los equipos:
