@@ -31,7 +31,7 @@ Este documento establece el formato y las pautas que deben seguirse al crear doc
 
 ### 6. Código
 - Usar bloques de código para fragmentos de código o ejemplos. 
-- Usar tres acentos graves (```) antes del bloque de código y especificar el lenguaje utilizado (ejemplO: java).
+- Usar tres acentos graves (```) antes del bloque de código y especificar el lenguaje utilizado (ejemplo: java).
 *(En teclados con 'ñ', el acento grave está situado a la derecha de la tecla 'P')
 
   ```java
