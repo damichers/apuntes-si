@@ -14,3 +14,4 @@ Contributors
 - ceeciimg           - Cecilia Molina
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
+- Atlascreate        - Pedro Díez
