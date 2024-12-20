@@ -25,44 +25,68 @@ Un sistema de numeración es solo una manera de representar los números. Depend
 - Usa 16 símbolos: 0-9 y A-F, siendo el 10 la A, el 11 la B… hasta la F que sería el 15.  
 - Este sistema es muy usado en programación porque es más corto que el binario, pero cada símbolo hexadecimal equivale a 4 dígitos binarios.
 
-2. Cambios de Base
-A veces necesitamos convertir un número de un sistema a otro. 
-De Binario a Decimal:
-Para convertir de binario a decimal, multiplicamos cada bit por 2 elevado a su posición y luego sumamos.
-De Decimal a Binario:
+## 2. Conversión de Bases
+
+### 2.1. De Binario a Decimal
+Para convertir de binario a decimal, multiplicamos cada bit por 2 elevado a su posición y luego sumamos los resultados.
+
+### 2.2. De Decimal a Binario
 Para convertir de decimal a binario, dividimos el número entre 2, anotando los restos de cada división. Al final, los restos se leen de abajo hacia arriba.
-De Decimal a Hexadecimal:
-Similar a la conversión a binario, pero dividimos entre 16 y usamos letras para los números 10 a 15 (A=10, B=11, etc.).
-De Hexadecimal a Decimal
-Para convertir un número hexadecimal a decimal, seguimos estos pasos:
-Escribimos el número hexadecimal.
-Multiplicamos cada dígito por 16 elevado a la posición que ocupa, comenzando desde la derecha (posición 0).
-Sumamos los resultados.
 
-De Octal a Decimal
-Para convertir de octal a decimal, seguimos el mismo proceso que con el binario y hexadecimal. Multiplicamos cada dígito octal por 8 elevado a la posición que ocupa, comenzando desde la derecha (posición 0), y luego sumamos los resultados. 
+### 2.3. De Decimal a Hexadecimal
+El proceso es similar al de la conversión a binario, pero en este caso dividimos entre 16 y utilizamos letras para representar los valores 10 a 15 (A=10, B=11, etc.).
 
-3. Operaciones Lógicas y Aritméticas Binarias
-En los sistemas binarios, hacemos operaciones como en el sistema decimal, pero solo con 0s y 1s:
-Operaciones Lógicas:
-AND (Y): Da 1 solo si ambos bits son 1. Ejemplo: 1010 AND 1100 = 1000.
-OR (O): Da 1 si al menos uno de los bits es 1. Ejemplo: 1010 OR 1100 = 1110.
-NOT (NO): Invierte el valor de cada bit. Ejemplo: NOT 1010 = 0101.
-XOR (O Exclusivo): Da 1 si los bits son diferentes. Ejemplo: 1010 XOR 1100 = 0110.
-Operaciones Aritméticas:
-Suma: Se hace bit a bit. Si la suma da 2 (que es 10 en binario), llevamos 1 al siguiente bit.
-Ejemplo: 1101 + 1011 = 11000 (llevar 1).
-Resta: Igual que la resta normal, pero con bits. Si necesitas restar 0 de 1, debes pedir un "préstamo" de la siguiente posición.
-Ejemplo: 1101 - 1011 = 0100.
-Multiplicación: Se hace igual que en decimal, pero usando reglas de binario.
-Ejemplo: 101 × 11 = 1111.
-División: Similar a la división normal, dividiendo sucesivamente entre 2.
-Ejemplo: 10101 ÷ 10 = 1011.
+### 2.4. De Hexadecimal a Decimal
+Para convertir de hexadecimal a decimal, seguimos estos pasos:
+- Escribimos el número hexadecimal.
+- Multiplicamos cada dígito por 16 elevado a la posición que ocupa, comenzando desde la derecha (posición 0).
+- Sumamos los resultados.
 
-4. Almacenamiento de la Información
-Las computadoras almacenan todo como 0s y 1s. Aquí están las unidades básicas de almacenamiento:
-Bit: Es el trozo más pequeño de información. Puede ser 0 o 1.
-Byte: Es un conjunto de 8 bits. Un byte puede representar un número o un carácter.
-Palabra: Son conjuntos de bits (generalmente 16, 32 o 64 bits). Las palabras representan datos más grandes, como números grandes o instrucciones para la computadora.
-Los datos en la memoria de las computadoras son almacenados como secuencias de bits. Dependiendo de cuántos bits tengamos (como en una "palabra"), podemos representar cosas más complejas como números, letras o incluso imágenes. Sistemas como ASCII (para caracteres) y UTF-8 (para caracteres de todo el mundo) ayudan a almacenar y procesar textos.
+### 2.5. De Octal a Decimal
+Para convertir de octal a decimal, multiplicamos cada dígito octal por 8 elevado a la posición que ocupa, comenzando desde la derecha (posición 0), y luego sumamos los resultados.
+
+## 3. Operaciones Lógicas y Aritméticas Binarias
+
+### 3.1. Operaciones Lógicas
+En el sistema binario, se realizan las siguientes operaciones lógicas:
+
+- **AND (Y)**: Da 1 solo si ambos bits son 1.  
+  Ejemplo: `1010 AND 1100 = 1000`
+
+- **OR (O)**: Da 1 si al menos uno de los bits es 1.  
+  Ejemplo: `1010 OR 1100 = 1110`
+
+- **NOT (NO)**: Invierte el valor de cada bit.  
+  Ejemplo: `NOT 1010 = 0101`
+
+- **XOR (O Exclusivo)**: Da 1 si los bits son diferentes.  
+  Ejemplo: `1010 XOR 1100 = 0110`
+
+### 3.2. Operaciones Aritméticas
+
+- **Suma**: Se realiza bit a bit. Si la suma da 2 (que es 10 en binario), se lleva 1 al siguiente bit.  
+  Ejemplo: `1101 + 1011 = 11000` (llevar 1)
+
+- **Resta**: Igual que la resta normal, pero con bits. Si necesitas restar 0 de 1, debes pedir un "préstamo" de la siguiente posición.  
+  Ejemplo: `1101 - 1011 = 0100`
+
+- **Multiplicación**: Se hace igual que en decimal, pero utilizando las reglas de binario.  
+  Ejemplo: `101 × 11 = 1111`
+
+- **División**: Similar a la división normal, dividiendo sucesivamente entre 2.  
+  Ejemplo: `10101 ÷ 10 = 1011`
+
+
+## 4. Almacenamiento de la Información
+### 4.1. Unidades de Almacenamiento
+Los ordenadores almacenan toda la información en formato binario, utilizando las siguientes unidades básicas:
+
+- **Bit**: El trozo más pequeño de información, que puede ser 0 o 1.
+- **Byte**: Un conjunto de 8 bits. Un byte puede representar un número o un carácter.
+- **Palabra**: Conjuntos de bits, típicamente 16, 32 o 64 bits, que representan datos más grandes o instrucciones para la computadora.
+
+Los datos en la memoria de los ordenadores son almacenados como secuencias de bits. Dependiendo del número de bits, como en una "palabra", se pueden representar datos más complejos como números, letras o incluso imágenes.
+
+### 4.2. Sistemas de Codificación
+Existen sistemas como **ASCII** (para caracteres) y **UTF-8** (para caracteres internacionales) que ayudan a almacenar y procesar textos de manera eficiente.
 
