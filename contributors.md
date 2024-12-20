@@ -14,5 +14,9 @@ Contributors
 - ceeciimg           - Cecilia Molina
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
+<<<<<<< HEAD
 - Atlascreate        - Pedro Díez
+=======
+- Atlascreate	     - Pedro Díez
+>>>>>>> 5bd6cca (añado a drini)
 - drinosaurio        - Drini Pula
