@@ -15,3 +15,4 @@ Contributors
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
 - Atlascreate        - Pedro Díez
+- drinosaurio        - Drini Pula
