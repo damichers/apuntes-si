@@ -15,3 +15,4 @@ Contributors
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
 - Atlascreate        - Pedro Díez
+- GabrielHacker3000  - Gabriel Cruz
