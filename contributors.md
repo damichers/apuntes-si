@@ -15,3 +15,5 @@ Contributors
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
 - Atlascreate        - Pedro Díez
+- cebriii            - David Cebrian
+
