@@ -4,6 +4,7 @@ Contributors
 - Shiro-box          - Student Jesús David
 - danielitorc4       - Daniel R.
 - HojaSilvana        - David Cuenca
+- davidpr89          - David Palacios Rincón
 - lovelattemacchiato - Tamara
 - AfaghEB            - Afagh
 - nonaescu           - Ainhoa
