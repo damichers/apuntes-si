@@ -72,3 +72,98 @@ Permiten la ejecución concurrente de múltiples tareas o procesos. El sistema o
 ### Multitarea:
 - **Windows 10**: Permite ejecutar aplicaciones como navegadores web, editores de texto y programas multimedia de manera simultánea.
 - **Linux**: Popular en servidores y entornos de desarrollo debido a su alta capacidad multitarea y estabilidad.
+
+## 4. Sistemas Operativos Monousuario y Multiusuario
+
+### Ventajas e inconvenientes:
+
+- **Monousuario:**
+  - **Ventajas:**
+    - Simplicidad de diseño y uso.
+    - Menores requerimientos de hardware.
+    - Ideal para dispositivos personales.
+  - **Inconvenientes:**
+    - Limitación en la colaboración y el acceso compartido.
+    - Menor eficiencia en el uso de recursos si solo una tarea es ejecutada.
+
+- **Multiusuario:**
+  - **Ventajas:**
+    - Permite que múltiples usuarios trabajen simultáneamente, optimizando recursos.
+    - Soporte para redes y sistemas centralizados.
+    - Adecuado para empresas o entornos académicos.
+  - **Inconvenientes:**
+    - Mayor complejidad en su administración.
+    - Posibles problemas de seguridad y gestión de conflictos entre usuarios.
+
+[Fuente](https://airnavas.wordpress.com/monousuario-y-multiusuario)
+
+### Aplicaciones típicas de cada tipo:
+
+- **Monousuario:**
+  - Computadoras personales.
+  - Dispositivos específicos como kioscos digitales o cajeros automáticos.
+- **Multiusuario:**
+  - Servidores empresariales.
+  - Sistemas académicos y de investigación.
+
+---
+
+## 5. Sistemas Operativos Según su Arquitectura
+
+### Sistemas Operativos de Red:
+- **Características:** Diseñados para gestionar recursos y servicios en una red, permitiendo acceso remoto a archivos y dispositivos.
+- **Ejemplos:** Windows Server, Linux Server, Novell NetWare.
+- **Aplicaciones:** Empresas con múltiples equipos conectados en red.
+
+### Sistemas Distribuidos:
+- **Características:** Permiten que múltiples computadoras trabajen juntas como un solo sistema lógico. Los recursos están distribuidos físicamente pero son accesibles de forma transparente.
+- **Ejemplos:** Google File System, Hadoop, sistemas de computación en la nube.
+- **Aplicaciones:** Big Data, procesamiento paralelo, y computación científica.
+
+### Sistemas en Tiempo Real:
+- **Características:** Responden a eventos en un tiempo predefinido, crucial en aplicaciones críticas donde los retrasos pueden ser catastróficos.
+- **Ejemplos:** VxWorks, QNX, RTLinux.
+- **Aplicaciones:** Control de robots, aviación, sistemas médicos, automóviles.
+
+[Fuente](https://universodigital.org/introduccion-sistemas-operativos)
+
+---
+
+## 6. Sistemas Operativos Según su Interfaz de Usuario
+
+### Sistemas Operativos Basados en CLI (Command Line Interface):
+- **Características:** Interactúan mediante comandos escritos en texto.
+- **Ventajas:**
+  - Más ligeros en recursos.
+  - Flexibles y potentes para usuarios avanzados.
+- **Inconvenientes:**
+  - Curva de aprendizaje pronunciada para principiantes.
+- **Ejemplos:** DOS, Bash en Linux.
+
+### Sistemas Operativos con GUI (Graphical User Interface):
+- **Características:** Interactúan mediante interfaces gráficas, como ventanas y botones.
+- **Ventajas:**
+  - Intuitivos y fáciles de usar.
+  - Mejor experiencia visual para usuarios comunes.
+- **Inconvenientes:**
+  - Mayor consumo de recursos.
+- **Ejemplos:** Windows, macOS, GNOME en Linux.
+
+[Fuente](https://www.muycomputer.com/2019/11/09/interfaces-graficas-mejores-linea-comandos)
+
+---
+
+## 7. Sistemas Operativos para Dispositivos Móviles
+
+### Características específicas:
+- Diseñados para hardware de baja potencia (batería, CPU).
+- Soporte para pantallas táctiles y sensores (acelerómetros, GPS).
+- Tiendas de aplicaciones integradas.
+- Seguridad optimizada para redes móviles.
+
+### Ejemplos:
+- **Android:** Basado en Linux, ampliamente usado, personalizable y compatible con muchas marcas.
+- **iOS:** Exclusivo para dispositivos Apple, cerrado y optimizado para su hardware.
+- **HarmonyOS:** De Huawei, diseñado para integración entre dispositivos IoT.
+
+[Fuente](https://www.newsbytesapp.com/news/science/how-huawei-s-harmonyos-is-different-from-android-ios/story)
