@@ -98,7 +98,7 @@ Usar guiones (-) para definir la línea del encabezado.
 Markdown no permite directamente la creación de gráficos, pero puedes incluir imágenes de gráficos que ya hayas creado.
 Usa la misma sintaxis que para las imágenes. Si tienes gráficos generados como imágenes, simplemente colócalos en la sección correspondiente.
 
-### 10. Estructura de directorios para un proyecto Markdown
+### 11. Estructura de directorios para un proyecto Markdown
 ```
 /mi-proyecto
  /imagenes
