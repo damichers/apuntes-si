@@ -1,34 +1,90 @@
-# Instalación de Sistemas Operativos
+# Apuntes: Sistemas Operativos Actuales
 
-## Introducción
-La instalación de un sistema operativo (S.O.) es uno de los pasos fundamentales para configurar un equipo informático. Un sistema operativo es el software que permite la interacción del usuario con el hardware de la computadora, gestionando recursos como el procesador, la memoria y el almacenamiento. Este proceso implica una serie de pasos técnicos que deben cumplirse con precisión para asegurar un funcionamiento eficiente del equipo.
+Descripción general de los sistemas operativos actuales en concreto Linux, Ubuntu, kali-linux, Windows y Android
 
-Antes de realizar la instalación, es necesario verificar que el equipo cumpla con los requisitos técnicos del sistema operativo a instalar. Esto incluye revisar el hardware disponible, asegurarse de que el sistema operativo sea compatible y preparar adecuadamente el equipo para evitar problemas durante el proceso de instalación.
+## 1. Linux
 
-## Comprobación de Requisitos Técnicos de Sistemas Operativos
+- Descripción:
+    - Sistema operativo de código abierto basado en Unix, diseñado para ser altamente personalizable, seguro y eficiente.
 
-### Verificación de Hardware
+- Es un núcleo (kernel) que da origen a múltiples distribuciones.
 
-Una de las primeras comprobaciones antes de instalar un sistema operativo es asegurarse de que el hardware del equipo cumpla con los requisitos mínimos y recomendados por el sistema operativo. El hardware debe ser compatible con los componentes necesarios, como el procesador, la memoria RAM, el almacenamiento y la tarjeta gráfica. Si el equipo no cumple con estos requisitos, la instalación puede fallar o, en su lugar, el rendimiento del sistema operativo puede ser deficiente.
+- Características principales:
+    - Estabilidad y rendimiento para servidores y estaciones de trabajo.
+	- Alta compatibilidad con sistemas embebidos y desarrollos personalizados.
+	- Comunidad activa de desarrolladores.
+	- Distribuciones populares:
+	- Ubuntu
+	- Debian
+	- Fedora
+	- Arch Linux
+________________________________________
 
-### Compatibilidad del Equipo con el Sistema Operativo
 
-Además de los requisitos de hardware, es crucial verificar que el equipo sea compatible con el sistema operativo que se desea instalar. Cada sistema operativo requiere ciertos controladores y configuraciones para interactuar correctamente con el hardware, como la tarjeta de red, los dispositivos de entrada y salida, y la tarjeta gráfica. Es importante asegurarse de que el sistema operativo elegido tenga soporte para los controladores necesarios, especialmente cuando se opta por usar Linux en lugar de Windows, ya que las compatibilidades pueden variar.
+## 2. Ubuntu (Distribución de Linux)
 
-### Requisitos Mínimos y Recomendados de Windows y Linux
+- Descripción:
+    - Basada en Debian, Ubuntu es una de las distribuciones más populares de Linux, conocida por su facilidad de uso y soporte comunitario.
 
-Cada sistema operativo tiene una lista de requisitos mínimos y recomendados para garantizar su instalación y buen funcionamiento. Es importante conocer estos requisitos para tomar decisiones informadas al elegir el sistema operativo y garantizar que el equipo esté preparado para la instalación.
+- Características principales:
+    - Facilidad de instalación: Ideal para principiantes en Linux.
+    - Entorno gráfico: Usa GNOME por defecto, aunque soporta otros escritorios como KDE (Kubuntu).
+    - Versiones LTS: Soporte a largo plazo (Long Term Support) de 5 años. Ejemplo: Ubuntu 24.04 LTS.
+    - Aplicaciones preinstaladas: Incluye LibreOffice, Firefox, y herramientas de desarrollo.
+    - Usos comunes: Servidores, estaciones de trabajo, desarrollo de software y uso personal.
+________________________________________
 
-- **Windows 10:** Los requisitos mínimos incluyen un procesador de 1 GHz o superior, 2 GB de RAM y 20 GB de espacio en disco. Para un rendimiento óptimo, se recomienda un procesador de 1.5 GHz o superior, 4 GB de RAM y 64 GB de espacio en disco.
-  
-- **Linux (por ejemplo, Ubuntu):** Los requisitos mínimos incluyen un procesador de 2 GHz, 2 GB de RAM y 25 GB de espacio en disco. Las versiones más ligeras de Linux, como Lubuntu o Xubuntu, tienen requisitos más bajos y son adecuadas para equipos con hardware limitado.
 
-### Preparación del Equipo para la Instalación
+## 3. Kali Linux (Distribución de Linux)
 
-Antes de instalar el sistema operativo, se debe preparar adecuadamente el equipo para evitar la pérdida de datos y facilitar una instalación exitosa. Algunas de las acciones clave en esta fase incluyen:
+- Descripción:
+    - Distribución basada en Debian diseñada específicamente para pruebas de penetración y seguridad informática.
 
-1. **Realizar copias de seguridad (backups):** Es fundamental realizar copias de seguridad de los datos importantes para evitar pérdidas durante el proceso de instalación, especialmente si se formatea el disco duro.
+- Características principales:
+    - Herramientas integradas: Incluye más de 600 herramientas de hacking ético, análisis forense, y auditoría de seguridad.
+    - Interfaz gráfica: Utiliza entornos como XFCE para ser ligera y rápida.
+    - Modo Live: Permite ejecutarse desde un USB sin necesidad de instalación.
+    - Uso común: Pentesters, analistas de seguridad, y estudiantes de ciberseguridad.
 
-2. **Gestionar las particiones del disco:** La partición del disco duro es un paso clave para organizar el almacenamiento y, en algunos casos, permitir la instalación de más de un sistema operativo (arranque dual). Asegúrate de que las particiones estén configuradas de manera adecuada.
+Nota: No se recomienda para usuarios generales debido a su enfoque técnico.
+________________________________________
 
-3. **Verificar la configuración de la BIOS/UEFI:** Asegúrate de que el equipo esté configurado para arrancar desde el medio de instalación, ya sea un USB o un disco óptico. Además, comprueba si la virtualización está habilitada, en caso de que se desee utilizar máquinas virtuales.
+
+## 4. Windows
+
+- Descripción:
+    - Sistema operativo propietario desarrollado por Microsoft, líder en el mercado de computadoras personales.
+    - Última versión: Windows 11.
+
+    - Características principales:
+        - Interfaz gráfica intuitiva: Basada en ventanas (GUI) para facilitar la experiencia de usuario.
+        - Compatibilidad de software: Compatible con la mayoría de aplicaciones comerciales y videojuegos.
+        - Actualizaciones continuas: Integración con servicios en la nube como OneDrive y Windows Update.
+        - Ediciones disponibles: Hogar, Profesional, y Enterprise (orientada a empresas).
+        - Uso común: Computadoras personales, empresas, estaciones de trabajo, y gaming.
+________________________________________
+
+
+## 5. Android
+- Descripción:
+    - Sistema operativo basado en el núcleo Linux, diseñado por Google para dispositivos móviles como smartphones y tablets.
+
+- Características principales:
+    - Código abierto: Permite a fabricantes como Samsung, Xiaomi, y Huawei personalizarlo según sus necesidades.
+    - Google Play Store: Tienda de aplicaciones con millones de opciones.
+    - Compatibilidad: Incluye soporte para apps de productividad, juegos y dispositivos IoT.
+    - Fragmentación: Diferentes versiones en circulación según el fabricante. Última versión: Android 14.
+    - Usos comunes: Smartphones, tablets, smart TVs, y dispositivos IoT.
+
+
+
+| Sistemas Operativos | Encabezado 2 | Encabezado 3 | Encabezado 4 |
+|---------------|---------------|---------------| ----------|
+| Linux | General, personalizable | Seguro,  |           |
+| Ubuntu  | Uso General /Servidores | Fila 2 Col 3  |           |
+| Kali-Linux  | FCiberseguridad  | Fila 3 Col 3  |           |
+| Windows  | Uso General / Gaming  | Fila 3 Col 3  |           |
+| Android | Moviles y loT | Fila 3 Col 3  |           |
+
+
+
