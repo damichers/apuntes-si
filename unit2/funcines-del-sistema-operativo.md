@@ -1,4 +1,4 @@
-La gestión de Entrada/Salida La gestión de Entrada/Salida (E/S) es responsable del 
+.La gestión de Entrada/Salida La gestión de Entrada/Salida (E/S) es responsable del 
 movimiento de información entre el sistema informático y el exterior. Los dispositivos 
 de E/S, como periféricos y memorias auxiliares, requieren una interfaz adecuada para 
 que el usuario pueda conectarse con el sistema. El sistema operativo se encarga de 
