@@ -24,4 +24,3 @@ interrupciones) o mediante DMA, que optimiza la transferencia de datos sin la
 intervención continua de la CPU.
 
 
-![alt text](<EQ 4.8.gif>) 
