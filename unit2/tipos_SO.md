@@ -301,3 +301,90 @@ Un sistema operativo embebido (SO embebido) es un software especializado diseña
 ### 4. **FreeBSD (Open Source)**
 - Basado en Unix, ideal para sistemas de red y servidores.
 - Licencia BSD más permisiva.
+
+# **11. Sistemas Operativos en la Historia**
+
+## **Evolución histórica de los sistemas operativos**  
+Los sistemas operativos han pasado por varias etapas de evolución, adaptándose a las necesidades de los usuarios y los avances tecnológicos.
+
+- **Década de 1950:**  
+  Los primeros sistemas operativos eran muy básicos y específicos para cada máquina.  
+  Ejemplo: *GM-NAA I/O*. Se enfocaban en tareas simples, como gestionar entradas y salidas en computadoras mainframe.  
+  ![Computadora mainframe de los 50s](https://www.channelbiz.es/wp/wp-content/gallery/0-anos-ibm-mainframe/01-an-ibm-system360-in-use-at-volkswagen-1964.jpg)
+
+- **Década de 1960:**  
+  Aparece la multiprogramación, permitiendo la ejecución simultánea de varios programas.  
+  Sistemas como *CTSS* y *Multics* marcaron el inicio de características modernas.  
+  En 1969, *Unix* revolucionó el diseño de sistemas operativos por su modularidad y portabilidad.  
+  ![Unix en 1969](https://assets.sutori.com/user-uploads/image/0aabe691-5aea-4e92-b14d-530658cdc652/1969-unix.png)
+
+- **Década de 1980:**  
+  Los sistemas operativos llegan al mercado masivo.  
+  *MS-DOS* dominó las computadoras personales, mientras que *Mac OS* popularizó la interfaz gráfica amigable.  
+  *Unix* se consolidó en entornos empresariales.  
+  ![MS-DOS](https://arabitec.com/wp-content/uploads/2019/10/ms-dos.jpg)
+
+- **Década de 1990:**  
+  *Windows 95* combinó *MS-DOS* con una interfaz gráfica avanzada, marcando un estándar en el mercado de PC.  
+  En 1991, *Linux* introdujo el código abierto, cambiando la forma en que se desarrollan y distribuyen sistemas operativos.  
+  ![Windows 95](https://i1.wp.com/farm5.static.flickr.com/4119/4907877345_2f132bb924_b.jpg)
+
+- **Década de 2000 en adelante:**  
+  Surgen los sistemas operativos móviles, como *Android* e *iOS*, y se adaptan los tradicionales para computación en la nube y virtualización.  
+  ![Android e iOS](https://th.bing.com/th/id/OIP.LiNH8dYklGzVpjUBx7VxrAHaEK?w=274&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
+
+### **Hitos clave**
+- **Unix (1969):** Sentó las bases de los sistemas operativos modernos.  
+- **DOS (1981):** Dominó las PCs de los años 80.  
+- **Windows (1985):** Introdujo una interfaz gráfica para usuarios finales.  
+- **Linux (1991):** Código abierto, ideal para servidores y aplicaciones personalizadas.
+
+---
+
+# **12. Tendencias y Futuro de los Sistemas Operativos**
+
+## **Virtualización y contenedores**  
+La virtualización permite ejecutar múltiples sistemas operativos en el mismo hardware, mientras que los contenedores como *Docker* optimizan la portabilidad y ejecución de aplicaciones.  
+![Contenedores Docker](https://www.javiergarzas.com/wp-content/uploads/2015/07/docker1.png)
+
+## **Sistemas operativos para computación en la nube**  
+Diseñados para soportar infraestructuras escalables y distribuidas.  
+Ejemplos: *Google Cloud OS* y sistemas de *Microsoft Azure*.  
+![Computación en la nube](https://cdn.shopify.com/s/files/1/0229/0839/files/cloud_computing.jpg?v=1640214502)
+
+## **Inteligencia artificial y sistemas operativos adaptativos**  
+Los sistemas operativos modernos integran IA para optimizar recursos, mejorar la seguridad y adaptarse a los hábitos del usuario.  
+Ejemplo: *Fuchsia OS* de Google, diseñado para ser adaptable a cualquier dispositivo.  
+![Fuchsia OS](https://th.bing.com/th/id/OIP.fqEyzoTITb-fpHJeib3VpgAAAA?rs=1&pid=ImgDetMain)
+
+---
+
+# **13. Comparativa de Sistemas Operativos Populares**
+
+## **Windows**  
+- **Ventajas:**  
+  Fácil de usar, amplio soporte para hardware y software, ideal para juegos y aplicaciones empresariales.
+- **Desventajas:**  
+  Vulnerable a malware, requiere licencias pagas.  
+  ![Windows](https://lh6.googleusercontent.com/proxy/7Cw6Q8c5dfJ0Cdb3S0PMAWX4Hwao1aRGyH5Fc6xkvfH7nBHiv_WPp2AelVaiI0FzAjAxa0nJu9VXM8t_QA8-hNj458_4yZoztm2o1jp57hA26EhIeK1G4HM=s0-d)
+
+## **Linux**  
+- **Ventajas:**  
+  Gratuito, seguro, personalizable y ampliamente utilizado en servidores.
+- **Desventajas:**  
+  Curva de aprendizaje alta, menor compatibilidad con ciertos programas comerciales.  
+  ![Linux](https://www.extremetech.com/wp-content/uploads/2012/05/Linux-logo-without-version-number-banner-sized.jpg)
+
+## **macOS**  
+- **Ventajas:**  
+  Interfaz intuitiva, excelente rendimiento en diseño y multimedia, optimizado para dispositivos Apple.
+- **Desventajas:**  
+  Costoso y limitado al ecosistema de Apple.  
+  ![macOS](https://cdn.goconqr.com/uploads/media/image/13591348/desktop_e4471000-c28c-4714-8c59-f700ee6ec058.jpg)
+
+## **Usos más comunes**
+- **Windows:** Uso general, software empresarial y juegos.  
+- **Linux:** Servidores, programación y supercomputadoras.  
+- **macOS:** Diseño gráfico, edición multimedia y usuarios de dispositivos Apple.
+
+
