@@ -86,4 +86,4 @@ ________________________________________
 | Windows  | Uso General / Gaming  | Interfaz intuitiva, software comercial | Propietario, vulnerable a Malware |
 | Android | Moviles y loT | Personalizable, apps accesibles | Fragmentacion entre versiones |
 
-
+![Gráfico de SOA](imagenesSOA/png/Grafico.png "GráficoSoa")
