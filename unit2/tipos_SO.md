@@ -373,14 +373,14 @@ Ejemplo: *Fuchsia OS* de Google, diseñado para ser adaptable a cualquier dispos
   Gratuito, seguro, personalizable y ampliamente utilizado en servidores.
 - **Desventajas:**  
   Curva de aprendizaje alta, menor compatibilidad con ciertos programas comerciales.  
-  ![Linux](https://www.extremetech.com/wp-content/uploads/2012/05/Linux-logo-without-version-number-banner-sized.jpg)
+  ![Linux]([https://www.extremetech.com/wp-content/uploads/2012/05/Linux-logo-without-version-number-banner-sized.jpg](https://th.bing.com/th/id/OIP.Fr3NJxHUxk9FO8H1UHEPpgHaEF?rs=1&pid=ImgDetMain))
 
 ## **macOS**  
 - **Ventajas:**  
   Interfaz intuitiva, excelente rendimiento en diseño y multimedia, optimizado para dispositivos Apple.
 - **Desventajas:**  
   Costoso y limitado al ecosistema de Apple.  
-  ![macOS](https://cdn.goconqr.com/uploads/media/image/13591348/desktop_e4471000-c28c-4714-8c59-f700ee6ec058.jpg)
+  ![macOS]([https://cdn.goconqr.com/uploads/media/image/13591348/desktop_e4471000-c28c-4714-8c59-f700ee6ec058.jpg](https://img.php.cn/upload/article/000/000/024/5ebb9e5c92b59336.jpg))
 
 ## **Usos más comunes**
 - **Windows:** Uso general, software empresarial y juegos.  
