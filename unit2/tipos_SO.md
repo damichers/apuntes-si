@@ -138,11 +138,7 @@ Permiten la ejecución concurrente de múltiples tareas o procesos. El sistema o
   - Flexibles y potentes para usuarios avanzados.
 - **Inconvenientes:**
   - Curva de aprendizaje pronunciada para principiantes.
-<<<<<<< HEAD
 - **Ejemplos:** DOS, Ubuntu Server.
-=======
-- **Ejemplos:** DOS, Bash en Linux.
->>>>>>> fc78766 (Subo el temario con los puntos 4,5,6,7)
 
 ### Sistemas Operativos con GUI (Graphical User Interface):
 - **Características:** Interactúan mediante interfaces gráficas, como ventanas y botones.
@@ -151,11 +147,7 @@ Permiten la ejecución concurrente de múltiples tareas o procesos. El sistema o
   - Mejor experiencia visual para usuarios comunes.
 - **Inconvenientes:**
   - Mayor consumo de recursos.
-<<<<<<< HEAD
 - **Ejemplos:** Windows, macOS, Ubuntu Desktop.
-=======
-- **Ejemplos:** Windows, macOS, GNOME en Linux.
->>>>>>> fc78766 (Subo el temario con los puntos 4,5,6,7)
 
 [Fuente](https://www.muycomputer.com/2019/11/09/interfaces-graficas-mejores-linea-comandos)
 
