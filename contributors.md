@@ -18,4 +18,5 @@ Contributors
 - Atlascreate        - Pedro Díez
 - cebriii            - David Cebrian
 - GabrielHacker3000  - Gabriel Cruz
+- Drinosaurio        - Drini Pula
 - funandy            - Chenghao Fu (Andy)
