@@ -167,3 +167,137 @@ Permiten la ejecución concurrente de múltiples tareas o procesos. El sistema o
 - **HarmonyOS:** De Huawei, diseñado para integración entre dispositivos IoT.
 
 [Fuente](https://www.newsbytesapp.com/news/science/how-huawei-s-harmonyos-is-different-from-android-ios/story)
+
+
+# 8. Sistemas Operativos para Servidores
+
+## Requisitos de los Servidores
+
+### 1. Hardware Compatible
+- Procesadores con soporte para múltiples núcleos y virtualización.
+- Gran cantidad de memoria RAM (preferiblemente ECC para corregir errores).
+- Discos de alta capacidad y velocidad, con soporte para RAID.
+- Interfaces de red de alta velocidad, como Ethernet Gigabit o superiores.
+
+### 2. Capacidades del Sistema Operativo
+- Administración eficiente de recursos, incluida la gestión de procesos, memoria y almacenamiento.
+- Soporte para multiusuario y multitarea.
+- Seguridad avanzada, con opciones de firewall, cifrado y autenticación.
+- Tolerancia a fallos y alta disponibilidad (clústeres y respaldo).
+- Escalabilidad para adaptarse a cambios en la carga de trabajo.
+
+### 3. Compatibilidad de Software
+- Soporte para servicios web, bases de datos y aplicaciones empresariales.
+- Herramientas para virtualización y contenedores (como Docker o Kubernetes).
+- Compatibilidad con protocolos estándar (TCP/IP, HTTP, FTP, SSH, etc.).
+
+### 4. Actualizaciones y Soporte
+- Ciclo de vida prolongado con soporte a largo plazo (LTS).
+- Disponibilidad de parches de seguridad y actualizaciones.
+
+---
+
+## Ejemplos de Sistemas Operativos para Servidores
+
+### 1. **Windows Server**
+- **Características destacadas**:
+  - Interfaz gráfica familiar similar a Windows.
+  - Soporte nativo para servicios como Active Directory, DNS, DHCP e Hyper-V.
+  - Herramientas de administración avanzada como Windows Admin Center.
+- **Ventajas**:
+  - Fácil integración en entornos Microsoft (Office 365, Exchange, Azure).
+  - Amplia compatibilidad de aplicaciones empresariales.
+- **Ideal para**:
+  - Pequeñas y medianas empresas, especialmente aquellas que usan productos Microsoft.
+
+### 2. **Linux (CentOS, Ubuntu Server)**
+- **CentOS**:
+  - Diseñado para entornos empresariales, derivado de Red Hat Enterprise Linux (RHEL).
+  - Enfocado en estabilidad y seguridad.
+- **Ubuntu Server**:
+  - Compatible con una amplia variedad de hardware y aplicaciones.
+  - Ciclos de soporte flexibles, con ediciones LTS.
+- **Características generales de Linux**:
+  - Sistema de código abierto con amplia personalización.
+  - Gran comunidad y soporte.
+- **Ventajas**:
+  - Gratuito y altamente configurable.
+  - Alto rendimiento incluso en hardware más antiguo.
+
+### 3. **Unix**
+- **Ejemplos**: IBM AIX, HP-UX, Solaris (Oracle).
+- **Características**:
+  - Diseñado para grandes sistemas empresariales con alta demanda de rendimiento.
+  - Extrema estabilidad y fiabilidad.
+- **Ventajas**:
+  - Soporte técnico específico de los proveedores.
+  - Robusto y seguro para servidores críticos.
+- **Ideal para**:
+  - Bancos, telecomunicaciones y empresas con aplicaciones personalizadas.
+
+---
+
+## 9. ¿Qué son los sistemas operativos embebidos?
+
+Un sistema operativo embebido (SO embebido) es un software especializado diseñado para gestionar los recursos de hardware de un dispositivo específico y ofrecer funcionalidades específicas según los requisitos del sistema. A diferencia de los sistemas operativos genéricos (como Windows o Linux), los SO embebidos son compactos, de propósito específico, y están optimizados para tareas concretas.
+
+### Características principales
+1. **Tiempo real (RTOS, Real-Time Operating System)**:
+   - Garantizan tiempos de respuesta predecibles.
+2. **Ligereza y modularidad**:
+   - Ocupan menos espacio en memoria y son configurables.
+3. **Alta confiabilidad y disponibilidad**:
+   - Funcionan ininterrumpidamente durante largos periodos.
+4. **Especialización**:
+   - Diseñados para realizar tareas específicas.
+
+### Usos comunes
+- **Automóviles**: Controladores de motores, frenos ABS, sistemas de infotainment.
+- **Electrodomésticos**: Lavadoras, microondas, termostatos.
+- **Electrónica de consumo**: Smart TVs, cámaras.
+- **Industria y automatización**: Robots, PLCs, sistemas SCADA.
+- **Dispositivos médicos**: Marcapasos, máquinas de diagnóstico.
+- **Aeroespacial**: Sistemas de guiado, drones, satélites.
+
+### Ejemplos destacados
+1. **FreeRTOS**:
+   - Compatible con arquitecturas como ARM y x86.
+   - Ligero, escalable y ampliamente usado en IoT.
+2. **VxWorks**:
+   - Confiable y diseñado para sistemas críticos en aviación y automoción.
+
+---
+
+## 10. Comparativa entre Software Propietario y Open Source
+
+| **Característica**       | **Software Propietario**                 | **Open Source**                             |
+|--------------------------|------------------------------------------|---------------------------------------------|
+| **Definición**            | Código fuente cerrado, controlado por una entidad. | Código fuente abierto, accesible y modificable. |
+| **Licencia**              | Requiere pago o permisos específicos.   | Generalmente gratuito; licencias como GPL. |
+| **Costo inicial**         | Puede ser elevado.                      | Gratuito o con costos bajos.               |
+| **Control del usuario**   | Limitado.                               | Completo.                                  |
+| **Soporte**               | Proporcionado por la empresa.           | Comunidad o empresas relacionadas.         |
+| **Innovación y desarrollo** | Dirigido por la empresa.               | Evoluciona con la comunidad global.        |
+| **Seguridad**             | Gestión central, menos transparente.    | Permite auditorías públicas.               |
+| **Ejemplo de aplicaciones** | Microsoft Office, Photoshop.           | LibreOffice, GIMP.                         |
+
+---
+
+## Ejemplos de Sistemas Operativos
+
+### 1. **Windows (Propietario)**
+- Desarrollado por Microsoft.
+- Popular en entornos domésticos y corporativos.
+- Coste por licencia.
+
+### 2. **macOS (Propietario)**
+- Exclusivo para hardware Apple.
+- Estable, con buena integración de hardware y software.
+
+### 3. **Linux (Open Source)**
+- Distribuciones populares: Ubuntu, Fedora, Debian.
+- Altamente personalizable y gratuito.
+
+### 4. **FreeBSD (Open Source)**
+- Basado en Unix, ideal para sistemas de red y servidores.
+- Licencia BSD más permisiva.
