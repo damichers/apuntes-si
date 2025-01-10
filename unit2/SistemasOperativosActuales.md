@@ -36,3 +36,38 @@ o	Interfaz gráfica: Utiliza entornos como XFCE para ser ligera y rápida.
 o	Modo Live: Permite ejecutarse desde un USB sin necesidad de instalación.
 o	Uso común: Pentesters, analistas de seguridad, y estudiantes de ciberseguridad.
 •	Nota: No se recomienda para usuarios generales debido a su enfoque técnico.
+
+________________________________________
+
+4. Windows
+•	Descripción:
+Sistema operativo propietario desarrollado por Microsoft, líder en el mercado de computadoras personales.
+•	Última versión: Windows 11.
+•	Características principales:
+o	Interfaz gráfica intuitiva: Basada en ventanas (GUI) para facilitar la experiencia de usuario.
+o	Compatibilidad de software: Compatible con la mayoría de aplicaciones comerciales y videojuegos.
+o	Actualizaciones continuas: Integración con servicios en la nube como OneDrive y Windows Update.
+o	Ediciones disponibles: Hogar, Profesional, y Enterprise (orientada a empresas).
+o	Uso común: Computadoras personales, empresas, estaciones de trabajo, y gaming.
+________________________________________
+
+
+5. Android
+•	Descripción:
+Sistema operativo basado en el núcleo Linux, diseñado por Google para dispositivos móviles como smartphones y tablets.
+•	Características principales:
+o	Código abierto: Permite a fabricantes como Samsung, Xiaomi, y Huawei personalizarlo según sus necesidades.
+o	Google Play Store: Tienda de aplicaciones con millones de opciones.
+o	Compatibilidad: Incluye soporte para apps de productividad, juegos y dispositivos IoT.
+o	Fragmentación: Diferentes versiones en circulación según el fabricante. Última versión: Android 14.
+o	Usos comunes: Smartphones, tablets, smart TVs, y dispositivos IoT.
+
+
+<!-- Esto es una tabla -->
+
+Sistema Operativo	Enfoque	Ventajas	Desventajas
+Linux	General/Personalizable	Seguro, código abierto, eficiente	Curva de aprendizaje inicial
+Ubuntu	Uso general / servidores	Fácil de usar, soporte comunitario	Menor compatibilidad que Windows
+Kali Linux	Ciberseguridad	Especializado, herramientas de pentesting.	No apto para uso general
+Windows	Uso general /gaming	Interfaz intuitiva, software comercial	Propietario, vulnerable a malware
+Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre versiones
