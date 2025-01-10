@@ -4,6 +4,7 @@ Contributors
 - Shiro-box          - Student Jesús David
 - danielitorc4       - Daniel R.
 - HojaSilvana        - David Cuenca
+- davidpr89          - David Palacios Rincón
 - lovelattemacchiato - Tamara
 - AfaghEB            - Afagh
 - nonaescu           - Ainhoa
@@ -15,5 +16,7 @@ Contributors
 - Sofiipz            - Sofía
 - michaincerti       - Micha Incerti
 - Atlascreate        - Pedro Díez
+- cebriii            - David Cebrian
 - GabrielHacker3000  - Gabriel Cruz
 - LordGaspy          - Ricardo Charfolé
+- funandy            - Chenghao Fu (Andy)
