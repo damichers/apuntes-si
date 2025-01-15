@@ -18,4 +18,5 @@ Contributors
 - Atlascreate        - Pedro Díez
 - cebriii            - David Cebrian
 - GabrielHacker3000  - Gabriel Cruz
+- LordGaspy          - Ricardo Charfolé
 - funandy            - Chenghao Fu (Andy)
