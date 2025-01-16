@@ -19,7 +19,7 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 
 ![alt text](C:\Users\tamar\OneDrive\Pictures\Screenshots\Captura de pantalla 2025-01-16 123601.png)
 
-![alt text](imagenesInstalacionVariosSO/image-3.png)
+![alt text](imagenesInstalacionVariosSO/image-1.png)
 
 
 ## 4. Instalar los sistemas operativos.
