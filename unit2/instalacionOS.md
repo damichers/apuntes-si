@@ -46,3 +46,57 @@ COMPUTADORA:
 - Suelen ser más flexibles y configurables.
 - Soportan distintos sistemas operativos permitiendo al usuario cuál arrancar.
 - Utiliza interfaces gráficas o basadas en texto que el usuario puede personalizar.
+
+
+
+
+# Instalación de varios OS en un equipo.
+
+La instalación de varios OS en un equipo es posible gracias al "Multiboot" o "Arranque múltiple", que consiste en dividir el disco duro del ordenador en varias "particiones" y luego instalar diferentes sistemas operativos en cada partición, al arrancar la computadora con doble arranque, el sistema preguntará al usuario cual de los sistemas instalados quiere utilizar, y pasada esta etapa comenzará la carga de "solo" ese sistema. cuando se hace la instalación en un disco duro con particiones es necesario reiniciar el ordenador para cambiar de un sistema operativo a otro. La capacidad de elegir el sistema a arrancar está otorgada por el Gestor de arranque (o Boot loader).
+También tienes la posibilidad de virtualizar el sistema operativo desde el propio Windows y así poder trabajar con dos sistemas operativos a la vez, sin tener que reiniciar.
+
+## Pasos generales para lograr la instalación de varios OS en un equipo:
+
+## 1. Planificación.
+- Hardware: Verifica que tu equipo tenga suficiente espacio en el disco y sea compatible con los sistemas operativos que deseas instalar.
+- Sistemas Operativos: Define los sistemas que deseas instalar (Windows, Linux, macOS, etc.).
+- Orden de instalación: Generalmente, instala primero Windows, ya que tiende a sobrescribir los cargadores de arranque de otros sistemas.
+
+## 2. Crear un respaldo.
+- Copia de seguridad: Haz un respaldo completo de tus datos importantes para evitar pérdidas durante la instalación.
+
+## 3. Preparar el disco.
+- Particiones: Utiliza herramientas como el Administrador de discos de Windows, GParted (Linux), o un software de terceros.
+- Crea una partición para cada sistema operativo: Asegúrate de reservar espacio suficiente para cada OS y sus datos.
+- ![Partición de disco](<Captura de pantalla 2025-01-15 230131.png>)
+
+
+## 4. Instalar los sistemas operativos.
+
+### Instalar Windows:
+- Inserta el medio de instalación de Windows (USB/DVD).
+- Sigue el proceso de instalación y selecciona la partición destinada para Windows.
+- Completa la instalación.
+- ![Ruta de instalación del OS](<Captura de pantalla 2025-01-15 230158.png>)
+
+### Instalar Linux:
+- Inserta el medio de instalación de Linux.
+- Durante la instalación, selecciona la opción "Instalar junto a otro sistema operativo" o elige la partición manualmente.
+- Instala el gestor de arranque GRUB, que detectará automáticamente Windows.
+
+### Instalar macOS (opción más compleja, solo en hardware compatible):
+- Requiere hardware de Apple o hackintosh.
+- Sigue los pasos específicos para tu hardware.
+
+## 5. Configurar el gestor de arranque.
+- GRUB (Linux): Si instalaste Linux, este gestor de arranque detectará todos los sistemas operativos.
+- Herramientas adicionales:
+- EasyBCD (Windows) para configurar el arranque.
+- rEFInd para sistemas EFI/UEFI.
+- Personaliza el orden de los sistemas y el tiempo de espera.
+- ![Selección de boot mode](image.png)
+
+## 6. Verificación.
+- Reinicia el equipo y prueba iniciar en cada sistema operativo.
+- Si algo no funciona, usa un disco de recuperación o reinstala el gestor de arranque.
+- ![Verificacion de OS instalados](<Captura de pantalla 2025-01-15 230224.png>)
