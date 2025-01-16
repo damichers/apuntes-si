@@ -102,15 +102,10 @@ Usa la misma sintaxis que para las imágenes. Si tienes gráficos generados como
 ```
 /mi-proyecto
  /imagenes
-   /imagenesDocumento1
-        /png
-        /jpg
-        /gif
-        /svg
-    /imagenesDocumento2
-        ...
-/documentos
+    imagen1.png
+    . . .
+ /documentos
     documento1.md
-    documento2.md
-    README.md
+    . . . 
+ README.md
 ```
