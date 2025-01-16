@@ -94,9 +94,10 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - EasyBCD (Windows) para configurar el arranque.
 - rEFInd para sistemas EFI/UEFI.
 - Personaliza el orden de los sistemas y el tiempo de espera.
-- ![Selección de boot mode](image.png)
+
 
 ## 6. Verificación.
 - Reinicia el equipo y prueba iniciar en cada sistema operativo.
 - Si algo no funciona, usa un disco de recuperación o reinstala el gestor de arranque.
 - ![Verificacion de OS instalados](<Captura de pantalla 2025-01-15 230224.png>)
+
