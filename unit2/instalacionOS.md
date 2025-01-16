@@ -17,6 +17,8 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - Particiones: Utiliza herramientas como el Administrador de discos de Windows, GParted (Linux), o un software de terceros.
 - Crea una partición para cada sistema operativo: Asegúrate de reservar espacio suficiente para cada OS y sus datos.
 
+![alt text](image-1.png)
+
 ![Partición de disco](<Captura de pantalla 2025-01-15 230131.png>)
 
 
