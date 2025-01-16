@@ -28,7 +28,7 @@
 4. Inicio del sistema operativo:
     El sistema operativo comienza a ejecutarse.
 
-![alt text](image.png)
+![alt text](imagenesInstalacionVariosSO/image.png)
 
 ## 4.CONCLUSIÓN
 El gestor de arranque es el puente que conecta el Hardaware de un dispotivo con el sistema operativo, asegurando que el proceso de arranque sea eficiente y configurable.
