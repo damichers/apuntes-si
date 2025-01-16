@@ -17,9 +17,8 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - Particiones: Utiliza herramientas como el Administrador de discos de Windows, GParted (Linux), o un software de terceros.
 - Crea una partición para cada sistema operativo: Asegúrate de reservar espacio suficiente para cada OS y sus datos.
 
-![alt text](C:\Users\tamar\OneDrive\Pictures\Screenshots\Captura de pantalla 2025-01-16 123601.png)
+![alt text](image-4.png)
 
-![alt text](imagenesInstalacionVariosSO/image-1.png)
 
 
 ## 4. Instalar los sistemas operativos.
@@ -28,8 +27,7 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - Inserta el medio de instalación de Windows (USB/DVD).
 - Sigue el proceso de instalación y selecciona la partición destinada para Windows.
 - Completa la instalación.
-
-![alt text](<Captura de pantalla 2025-01-15 230158.png>)
+![alt text](image-5.png)
 
 ### Instalar Linux:
 - Inserta el medio de instalación de Linux.
@@ -47,13 +45,14 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - rEFInd para sistemas EFI/UEFI.
 - Personaliza el orden de los sistemas y el tiempo de espera.
 
-![alt text](image.png)
+![alt text](image-7.png)
+
 
 ## 6. Verificación.
 - Reinicia el equipo y prueba iniciar en cada sistema operativo.
 - Si algo no funciona, usa un disco de recuperación o reinstala el gestor de arranque.
 
-![alt text](<Captura de pantalla 2025-01-15 230224.png>)
+![alt text](image-6.png)
 
 
 
