@@ -19,8 +19,11 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 
 ![alt text](image-1.png)
 
+![alt text](image-3.png)
+
 ![Partición de disco](<Captura de pantalla 2025-01-15 230131.png>)
 
+![alt text](<Captura de pantalla 2025-01-15 230131.png>)
 
 ## 4. Instalar los sistemas operativos.
 
@@ -29,7 +32,7 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - Sigue el proceso de instalación y selecciona la partición destinada para Windows.
 - Completa la instalación.
 
-![Ruta de instalación del OS](<Captura de pantalla 2025-01-15 230158.png>)
+![alt text](<Captura de pantalla 2025-01-15 230158.png>)
 
 ### Instalar Linux:
 - Inserta el medio de instalación de Linux.
@@ -47,13 +50,13 @@ También tienes la posibilidad de virtualizar el sistema operativo desde el prop
 - rEFInd para sistemas EFI/UEFI.
 - Personaliza el orden de los sistemas y el tiempo de espera.
 
-![Selección de boot mode](<image.png>)
+![alt text](image.png)
 
 ## 6. Verificación.
 - Reinicia el equipo y prueba iniciar en cada sistema operativo.
 - Si algo no funciona, usa un disco de recuperación o reinstala el gestor de arranque.
 
-![Verificacion de OS instalados](<Captura de pantalla 2025-01-15 230224.png>)
+![alt text](<Captura de pantalla 2025-01-15 230224.png>)
 
 
 
