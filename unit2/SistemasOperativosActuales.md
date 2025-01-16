@@ -87,6 +87,7 @@ ________________________________________
 | Windows  | Uso General / Gaming  | Interfaz intuitiva, software comercial | Propietario, vulnerable a Malware |
 | Android | Moviles y loT | Personalizable, apps accesibles | Fragmentacion entre versiones |
 
+<<<<<<< HEAD
 ![Gráfico de SOA](imagenesSOA/png/Grafico.png "GráficoSoa")
 =======
 Apuntes: Sistemas Operativos Actuales
@@ -166,3 +167,6 @@ Kali Linux	Ciberseguridad	Especializado, herramientas de pentesting.	No apto par
 Windows	Uso general /gaming	Interfaz intuitiva, software comercial	Propietario, vulnerable a malware
 Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre versiones
 >>>>>>> 362840c (Added second part of the document wihout format)
+=======
+![GraficoMarketShareSO](../imagenes/GraficoMarketShareSO.png "GraficoMarketShareSO")
+>>>>>>> a63ed26 (Moved image directory)
