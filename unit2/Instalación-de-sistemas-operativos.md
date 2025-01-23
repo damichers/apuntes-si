@@ -33,6 +33,35 @@ Antes de instalar el sistema operativo, se debe preparar adecuadamente el equipo
 
 3. **Verificar la configuración de la BIOS/UEFI:** Asegúrate de que el equipo esté configurado para arrancar desde el medio de instalación, ya sea un USB o un disco óptico. Además, comprueba si la virtualización está habilitada, en caso de que se desee utilizar máquinas virtuales.
 
+# Instalación de Sistemas Operativos Linux: Una Guía Concisa
+
+## ¿Por qué instalar Linux?
+
+Linux ofrece una alternativa gratuita, personalizable y segura a los sistemas operativos comerciales. Es ideal para quienes buscan un mayor control sobre su sistema, una comunidad activa de desarrolladores y una amplia variedad de software libre.
+
+## Antes de Empezar
+
+- **Elige una distribución**: Existen numerosas distribuciones de Linux, cada una con sus propias características y enfoques. Algunas de las más populares son Ubuntu, Fedora, Debian y Linux Mint. Investiga cuál se adapta mejor a tus necesidades y nivel de experiencia.
+- **Crea un medio de instalación**: Generalmente se utiliza una unidad USB booteable. Herramientas como Rufus o Etcher facilitan este proceso.
+- **Realiza una copia de seguridad**: Antes de instalar Linux, asegúrate de tener una copia de seguridad de tus datos importantes, ya que el proceso de instalación puede sobrescribir tu disco duro.
+
+## Proceso de Instalación
+
+1. **Inicio desde el medio de instalación**: Reinicia tu computadora y configura la BIOS para que arranque desde el dispositivo USB.
+2. **Idioma y distribución del teclado**: Selecciona el idioma y la distribución de teclado que prefieras.
+3. **Tipo de instalación**: Elige entre una instalación estándar (recomendada para la mayoría de los usuarios) o una instalación personalizada para un mayor control sobre la partición del disco.
+4. **Partición del disco**: Aquí decidirás cómo se dividirá tu disco duro. Puedes optar por una instalación junto a Windows, una instalación completa de Linux o una configuración más avanzada.
+5. **Usuario y contraseña**: Crea un usuario principal y establece una contraseña segura.
+6. **Selección de software**: Durante la instalación, se te ofrecerá la posibilidad de seleccionar los paquetes de software que deseas instalar.
+7. **Inicio de la instalación**: Una vez que hayas configurado todos los parámetros, inicia la instalación. Este proceso puede tardar varios minutos.
+
+## Consideraciones Adicionales
+
+- **Drivers**: La mayoría de los hardware modernos son detectados automáticamente por Linux. Sin embargo, puede que necesites instalar algunos drivers adicionales para dispositivos específicos.
+- **Software**: Linux viene con una amplia variedad de software preinstalado. Puedes instalar aplicaciones adicionales desde los repositorios oficiales o desde fuentes de terceros.
+- **Actualizaciones**: Es importante mantener tu sistema Linux actualizado para corregir errores y mejorar el rendimiento.
+
+
 # Instalación de Windows
 ## Requisitos previos
 - Un equipo compatible con el sistema Windows
