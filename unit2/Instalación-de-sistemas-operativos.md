@@ -32,3 +32,46 @@ Antes de instalar el sistema operativo, se debe preparar adecuadamente el equipo
 2. **Gestionar las particiones del disco:** La partición del disco duro es un paso clave para organizar el almacenamiento y, en algunos casos, permitir la instalación de más de un sistema operativo (arranque dual). Asegúrate de que las particiones estén configuradas de manera adecuada.
 
 3. **Verificar la configuración de la BIOS/UEFI:** Asegúrate de que el equipo esté configurado para arrancar desde el medio de instalación, ya sea un USB o un disco óptico. Además, comprueba si la virtualización está habilitada, en caso de que se desee utilizar máquinas virtuales.
+
+# Instalación de Windows
+## Requisitos previos
+- Un equipo compatible con el sistema Windows
+- Un dispositivo de almacenamiento USB con al menos 8 GB de capacidad o CD
+- Un archivo de imagen ISO de Windows
+## Pasos a seguir
+#### 1. Preparar el CD o USB:
++ **USB:**
+    + Descarga [Rufus](https://rufus.ie/es/) u otra herramienta similar.
+    + Ejecuta la herramienta y sigue las instrucciones para crear un USB booteable.
+    
++ **CD** 
+    + Graba el archivo ISO de Windows en un DVD usando [ImgBurn](https://www.imgburn.com/) o similar.
+#### 2. Configura la BIOS/UEFI:
++ Reinicia el ordenador y entra al menú de la BIOS/UEFI presionando F2, F12, DEL o ESC durante el arranque del mismo.
++ En la sección boot de la BIOS selecciona el USB/DVD como unidad de arranque.
+#### 3. Arranca desde el medio elegido:
++ Insterta en el equipo el USB/DVD con el archivo .ISO
++ EL ordenador debería arrancar desde el medio elegido. Si no lo hace automáticamente, asegúrate de haber configurado correctamente la BIOS.
+#### 4. Inicia la instalación de Windows:
++ Al arrancar desde el medio, selecciona el idioma y la configuración regional.
++ Haz clic en "Instalar ahora".
+#### 5. Introduce la clave de producto (si es necesario):
++ En algunos casos, te pedirá ingresar una clave de producto. Si no tienes una, puedes seleccionar "No tengo clave de producto" y activar Windows más tarde.
+#### 6. Configura como será instalación:
++ Elige el tipo de instalación:
+
+    + **Instalación Rápida:** Es la instalación mas cómoda, conserva tus archivos, configuraciones y algunos programas durante la instalación. No formatea ni borra la unidad.
+    + **Instalación personalizada:** Te permite un mayor control sobre elegir una partición (o disco) donde instalar Windows. Puedes formatear la partición antes de instalar, lo que eliminará todos los datos previos en esa unidad.
+#### 7. Instala Windows:
++ El instalador copiará los archivos y configurará el sistema automáticamente. Este proceso puede tardar un tiempo, dependiendo de la velocidad del equipo.
++ El ordenador se reiniciará varias veces durante la instalación.
+#### 8. Configura Windows:
++ Una vez instalado, Windows te pedirá configurar aspectos como:
+    + Red Wi-Fi (si es necesario).
+    +  Cuenta de Microsoft (puedes usar una cuenta en línea o una cuenta local).
+    + Preferencias de privacidad y personalización.
+#### 9. Instala controladores y actualizaciones:
++ Una vez en el escritorio, Windows normalmente descargará e instalará automáticamente los controladores necesarios.
++ Puedes ir a Configuración > Actualización y seguridad > Buscar actualizaciones para asegurarte de que tu sistema esté completamente actualizado.
+#### 10. Instala tus programas y restaurar tus archivos.
++ Ahora que Windows está instalado y configurado, puedes instalar tus aplicaciones y restaurar tus archivos desde una copia de seguridad si es necesario.
