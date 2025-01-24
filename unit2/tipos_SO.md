@@ -305,6 +305,9 @@ Un sistema operativo embebido (SO embebido) es un software especializado diseña
 - Basado en Unix, ideal para sistemas de red y servidores.
 - Licencia BSD más permisiva.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7761973a4cf5298b7114d4ffc0d83fa9576153d0
 
 # **11. Sistemas Operativos en la Historia**
 
@@ -388,5 +391,8 @@ Ejemplo: *Fuchsia OS* de Google, diseñado para ser adaptable a cualquier dispos
 - **macOS:** Diseño gráfico, edición multimedia y usuarios de dispositivos Apple.
 
 
+<<<<<<< HEAD
 =======
 >>>>>>> fa7dd18 ( añadido temas 8, 9, y 10)
+=======
+>>>>>>> 7761973a4cf5298b7114d4ffc0d83fa9576153d0
