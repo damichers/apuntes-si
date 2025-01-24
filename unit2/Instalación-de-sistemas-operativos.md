@@ -23,7 +23,7 @@ Cada sistema operativo tiene una lista de requisitos mínimos y recomendados par
   
 - **Linux (por ejemplo, Ubuntu):** Los requisitos mínimos incluyen un procesador de 2 GHz, 2 GB de RAM y 25 GB de espacio en disco. Las versiones más ligeras de Linux, como Lubuntu o Xubuntu, tienen requisitos más bajos y son adecuadas para equipos con hardware limitado.
 
-### Preparación del Equipo para la Instalación
+### Preparación del Equipo para la Instalación.
 
 Antes de instalar el sistema operativo, se debe preparar adecuadamente el equipo para evitar la pérdida de datos y facilitar una instalación exitosa. Algunas de las acciones clave en esta fase incluyen:
 
