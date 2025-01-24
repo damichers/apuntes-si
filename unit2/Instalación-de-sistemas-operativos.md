@@ -104,3 +104,86 @@ Linux ofrece una alternativa gratuita, personalizable y segura a los sistemas op
 + Puedes ir a Configuración > Actualización y seguridad > Buscar actualizaciones para asegurarte de que tu sistema esté completamente actualizado.
 #### 10. Instala tus programas y restaurar tus archivos.
 + Ahora que Windows está instalado y configurado, puedes instalar tus aplicaciones y restaurar tus archivos desde una copia de seguridad si es necesario.
+
+
+# Comparación entre Linux y Windows
+
+
+## 1. Origen y Filosofía
+
+### Linux:
+- **Origen:** Linux es un sistema operativo basado en Unix creado por **Linus Torvalds** en 1991. Es un software libre y de código abierto, lo que significa que su código fuente es accesible para cualquier persona, y puede ser modificado y distribuido de acuerdo con las licencias del proyecto.
+- **Filosofía:** El modelo de desarrollo de Linux es colaborativo y comunitario. La comunidad de usuarios y desarrolladores crean y mejoran continuamente el sistema. El software de Linux es gratuito.
+
+### Windows:
+- **Origen:** Windows es un sistema operativo propietario creado por **Microsoft**, lanzado inicialmente en 1985. A diferencia de Linux, su código fuente no está disponible y se distribuye bajo licencias comerciales.
+- **Filosofía:** Windows está diseñado principalmente con la simplicidad y accesibilidad para el usuario. Microsoft prioriza la facilidad de uso. Los usuarios deben pagar por las licencias del sistema operativo.
+
+## 2. Interfaz de Usuario
+
+### Linux:
+- **Interfaz gráfica (GUI):** Linux es conocido por su uso en entornos de línea de comandos (CLI), cuenta con diversas interfaces gráficas de usuario (GUI), como GNOME, KDE, Xfce, entre otras. Estas interfaces son altamente personalizables, lo que permite que los usuarios adapten su entorno de trabajo según sus preferencias.
+- **Accesibilidad y personalización:** Linux ofrece una mayor flexibilidad en cuanto a personalización de la interfaz. Los usuarios pueden modificar desde la apariencia hasta el comportamiento del sistema.
+
+### Windows:
+- **Interfaz gráfica (GUI):** Windows tiene una interfaz gráfica de usuario moderna y estandarizada que está orientada al usuario promedio. Windows ha evolucionado para ser intuitivo, con menús gráficos, ventanas de fácil navegación y un diseño amigable.
+- **Accesibilidad y personalización:** Aunque la personalización es posible, Windows no es tan flexible como Linux en términos de modificación de la interfaz.
+
+## 3. Uso
+
+### Linux:
+- **Usuarios avanzados:** Linux está dirigido principalmente a usuarios con conocimientos más técnicos o avanzados. La mayor parte de la interacción ocurre a través de la terminal o línea de comandos, lo que le da un gran poder a los usuarios para controlar el sistema.
+- **Distribuciones:** Linux tiene una variedad de distribuciones (distros) como Ubuntu, Fedora, Debian, y muchas otras, que permiten elegir una versión adecuada según las necesidades del usuario, desde versiones orientadas al escritorio hasta sistemas de servidor.
+
+### Windows:
+- **Usuarios generales:** Windows es conocido por su facilidad de uso. Su interfaz gráfica está diseñada para ser intuitiva, lo que permite que la mayoría de los usuarios no técnicos puedan usar el sistema con facilidad.
+- **Software compatible:** Windows es el sistema operativo más utilizado en entornos domésticos y de oficina. Casi todas las aplicaciones comerciales están diseñadas para Windows, lo que facilita la instalación de software y su compatibilidad.
+
+## 4. Seguridad
+
+### Linux:
+- **Seguridad avanzada:** Linux es conocido por ser un sistema operativo más seguro debido a su arquitectura de permisos y a la naturaleza de código abierto, lo que permite a la comunidad identificar y corregir vulnerabilidades rápidamente. Además, las actualizaciones de seguridad suelen ser rápidas y fáciles de implementar.
+- **Menos malware:** Aunque no está exento de amenazas, Linux tiene menos software malicioso en comparación con Windows.
+
+### Windows:
+- **Seguridad y vulnerabilidades:** Aunque Windows ha mejorado significativamente en términos de seguridad en versiones recientes, sigue siendo un objetivo frecuente de malware, virus y ataques debido a su alta cuota de mercado.
+- **Antivirus y protección:** Los usuarios de Windows suelen necesitar software adicional de antivirus y firewall para proteger su sistema, ya que el sistema operativo no es tan seguro de forma predeterminada.
+
+## 5. Compatibilidad de Software
+
+### Linux:
+- **Software libre y de código abierto:** Linux tiene una amplia gama de software libre y gratuito disponible, lo que es ideal para usuarios que prefieren el código abierto.
+
+
+### Windows:
+- **Software comercial:** Windows tiene una gran ventaja en términos de compatibilidad con software comercial, especialmente aplicaciones empresariales y juegos. La mayoría de las aplicaciones de pago, como Microsoft Office. Tiene facilidad de instalación y la mayoría de las aplicaciones están diseñadas con asistentes gráficos para facilitar la instalación.
+
+## 6. Costos
+
+### Linux:
+- **Gratis:** Linux es completamente gratuito. Los usuarios pueden descargar e instalar cualquier distribución sin coste alguno. Además, la mayoría del software que se utiliza en Linux también es gratuito.
+
+
+### Windows:
+- **Licencias:** Windows requiere la compra de una licencia para su uso, lo que puede representar un costo significativo. El precio varía según la edición del sistema operativo (Home, Pro, Enterprise, etc.).
+
+ En algunas versiones de Windows, las actualizaciones y el soporte pueden tener costos adicionales, especialmente en entornos empresariales.
+
+## 7. Actualizaciones
+
+### Linux:
+- **Actualizaciones constantes:** Linux recibe actualizaciones regulares de seguridad y mejoras, a menudo de manera centralizada a través de los gestores de paquetes. Estas actualizaciones son generalmente rápidas y no interrumpen el flujo de trabajo del usuario.
+- **Control sobre las actualizaciones:** Los usuarios tienen un control más directo sobre cuándo y cómo aplicar las actualizaciones.
+
+### Windows:
+- **Actualizaciones automáticas:** Windows realiza actualizaciones automáticas de manera periódica, lo que puede ser inconveniente para algunos usuarios. Las actualizaciones, a veces, pueden consumir mucho tiempo y recursos del sistema.
+- **Control limitado:** Aunque los usuarios pueden retrasar o posponer algunas actualizaciones, en general, Windows tiene un enfoque más rígido en cuanto a actualizaciones.
+
+## 8. Comunidad y Soporte
+
+### Linux:
+- **Comunidad activa:** Debido a su naturaleza de código abierto, Linux tiene una comunidad activa de desarrolladores y usuarios que proporcionan soporte.
+- **Soporte profesional:** Las distribuciones comerciales como Red Hat y Ubuntu ofrecen soporte profesional a empresas que lo necesiten.
+### Windows:
+- **Soporte oficial:** Windows cuenta con un soporte oficial de Microsoft, lo que incluye actualizaciones, parches de seguridad y atención al cliente, aunque este servicio generalmente tiene un costo.
+- **Comunidad:** Aunque la comunidad de usuarios es activa, el soporte formal es el pilar en Windows, especialmente para usuarios domésticos.
