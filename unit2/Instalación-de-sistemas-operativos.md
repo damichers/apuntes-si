@@ -64,9 +64,9 @@ Linux ofrece una alternativa gratuita, personalizable y segura a los sistemas op
 
 # Instalación de Windows
 ## Requisitos previos
-- Un equipo compatible con el sistema Windows
-- Un dispositivo de almacenamiento USB con al menos 8 GB de capacidad o CD
-- Un archivo de imagen ISO de Windows
+- Un equipo compatible con el sistema Windows.
+- Un dispositivo de almacenamiento USB con al menos 8 GB de capacidad o CD.
+- Un archivo de imagen ISO de Windows.
 ## Pasos a seguir
 #### 1. Preparar el CD o USB:
 + **USB:**
