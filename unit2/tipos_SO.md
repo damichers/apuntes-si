@@ -368,13 +368,11 @@ Ejemplo: *Fuchsia OS* de Google, diseñado para ser adaptable a cualquier dispos
 - **Desventajas:**  
   Vulnerable a malware, requiere licencias pagas.  
 
-
 ## **Linux**  
 - **Ventajas:**  
   Gratuito, seguro, personalizable y ampliamente utilizado en servidores.
 - **Desventajas:**  
   Curva de aprendizaje alta, menor compatibilidad con ciertos programas comerciales.  
-
 
 ## **macOS**  
 - **Ventajas:**  
