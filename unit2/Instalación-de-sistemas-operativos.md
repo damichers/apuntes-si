@@ -1,4 +1,4 @@
-# Instalación de Sistemas Operativos
+# Instalación de Sistemas Operativos.
 
 ## Introducción
 La instalación de un sistema operativo (S.O.) es uno de los pasos fundamentales para configurar un equipo informático. Un sistema operativo es el software que permite la interacción del usuario con el hardware de la computadora, gestionando recursos como el procesador, la memoria y el almacenamiento. Este proceso implica una serie de pasos técnicos que deben cumplirse con precisión para asegurar un funcionamiento eficiente del equipo.
