@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
-=======
->>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
 # Apuntes: Sistemas Operativos Actuales
 
 Descripción general de los sistemas operativos actuales en concreto Linux, Ubuntu, kali-linux, Windows y macOS
@@ -398,6 +391,7 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
         - El chip T2 impide accesos no autorizados y refuerza la seguridad de claves.
 
 - Comparación General
+
 | Sistemas Operativos | Enfoque                  | Ventajas                                  | Desventajas                         |
 |--------------------|-------------------------|------------------------------------------|------------------------------------|
 | **Linux**        | General, personalizable  | Seguro, código abierto, eficiente       | Curva de aprendizaje inicial     |
@@ -406,7 +400,7 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
 | **Windows**      | Uso General / Gaming     | Interfaz intuitiva, software comercial  | Propietario, vulnerable a malware |
 | **macOS**        | Uso Profesional / Creativo | Estable, optimizado para hardware Apple | Costoso, menos personalizable    |
 
-![Uso de los S.O.](../imagenes/S.O%20uso%20en%202025.png)
+![Uso de los S.O. en 2025](../imagenes/SOuso2025.png)
 ###### Gráfico que representa el uso de los sistemas operativos mencionados
 - Linux/Unix domina en servidores con soluciones flexibles y configurables.
 - Windows es la opción más común en empresas con su integración de AD.
