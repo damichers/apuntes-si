@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
+=======
+>>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
 # Apuntes: Sistemas Operativos Actuales
 
 Descripción general de los sistemas operativos actuales en concreto Linux, Ubuntu, kali-linux, Windows y macOS
@@ -243,6 +246,7 @@ ________________________________________
 | Android | Moviles y loT | Personalizable, apps accesibles | Fragmentacion entre versiones |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Gráfico de SOA](imagenesSOA/png/Grafico.png "GráficoSoa")
 =======
 Apuntes: Sistemas Operativos Actuales
@@ -326,6 +330,8 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
 ![GraficoMarketShareSO](../imagenes/GraficoMarketShareSO.png "GraficoMarketShareSO")
 >>>>>>> a63ed26 (Moved image directory)
 =======
+=======
+>>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
 ## 7. Gestión de Identidad y Acceso (IAM - Identity and Access Management) en Diferentes Sistemas Operativos
 
 - Es crucial para garantizar la seguridad en sistemas operativos, cada plataforma tiene su propio enfoque para administrar autenticación, autorización y control de acceso.
@@ -406,4 +412,7 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
 - Windows es la opción más común en empresas con su integración de AD.
 - macOS combina seguridad biométrica y su ecosistema Apple.
 
+<<<<<<< HEAD
 >>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
+=======
+>>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
