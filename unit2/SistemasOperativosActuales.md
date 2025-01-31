@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
 # Apuntes: Sistemas Operativos Actuales
 
 Descripción general de los sistemas operativos actuales en concreto Linux, Ubuntu, kali-linux, Windows y macOS
@@ -322,3 +325,85 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
 =======
 ![GraficoMarketShareSO](../imagenes/GraficoMarketShareSO.png "GraficoMarketShareSO")
 >>>>>>> a63ed26 (Moved image directory)
+=======
+## 7. Gestión de Identidad y Acceso (IAM - Identity and Access Management) en Diferentes Sistemas Operativos
+
+- Es crucial para garantizar la seguridad en sistemas operativos, cada plataforma tiene su propio enfoque para administrar autenticación, autorización y control de acceso.
+
+- Linux/Unix
+    - En entornos Linux y Unix, la IAM se maneja con una combinación de herramientas y protocolos:
+
+    - LDAP (Lightweight Directory Access Protocol)
+
+        - Protocolo estándar para la autenticación centralizada en redes empresariales.
+        - Se usa para almacenar credenciales y permisos de usuarios.
+        - Integración con OpenLDAP y Active Directory (AD).
+        - PAM (Pluggable Authentication Modules)
+
+    - Framework modular que permite autenticación flexible.
+        - Soporta autenticación mediante contraseña, biometría, tarjetas inteligentes, etc.
+        - Utilizado por SSH, sudo y otros servicios críticos.
+        - Active Directory (AD)
+
+    - Aunque es una tecnología de Microsoft, se puede integrar con Linux usando Samba o SSSD (System Security Services Daemon).
+        - Permite a los servidores Linux autenticarse en dominios Windows.
+        - Kerberos
+
+    - Protocolo de autenticación de red que permite autenticación única (SSO).
+        - Utilizado en muchas implementaciones empresariales de IAM.
+
+- Windows
+    - Windows tiene un enfoque unificado para IAM, centrado en Active Directory (AD):
+
+    - Active Directory (AD)
+
+        - Base de datos jerárquica para la autenticación y autorización en redes Windows.
+        - Soporta políticas de acceso, administración de grupos y control centralizado de usuarios.
+        - Utiliza LDAP, Kerberos y NTLM como protocolos de autenticación.
+        - Azure Active Directory (Azure AD)
+
+    - Variante en la nube de AD, utilizada para entornos híbridos y cloud-native.
+        - Integración con Single Sign-On (SSO), Multi-Factor Authentication (MFA) y OAuth.
+        - Windows Hello for Business
+
+    - Autenticación basada en biometría o PIN, en lugar de contraseñas tradicionales.
+        - BitLocker y Gestión de Dispositivos
+
+    - Protección del acceso mediante cifrado de disco y administración remota con Intune y Group Policy (GPO).
+
+- MacOS
+    - Apple ofrece un enfoque integrado con su ecosistema, con un fuerte énfasis en la privacidad y la biometría:
+
+
+    - iCloud y Apple ID
+
+        - Base de autenticación para servicios de Apple, incluyendo FileVault, App Store y iCloud Keychain.
+        - Soporte para autenticación de dos factores (2FA).
+        - Active Directory y Open Directory
+
+    - macOS puede unirse a un dominio de Windows AD para autenticación empresarial.
+        - Open Directory es la alternativa de Apple a AD, usado en redes macOS.
+        - Touch ID y Face ID
+
+    - Integración con el sistema de autenticación biométrica para desbloqueo de dispositivos y acceso a aplicaciones.
+        - FileVault y T2 Security Chip
+
+    - Cifrado de disco completo para proteger datos.
+        - El chip T2 impide accesos no autorizados y refuerza la seguridad de claves.
+
+- Comparación General
+| Sistemas Operativos | Enfoque                  | Ventajas                                  | Desventajas                         |
+|--------------------|-------------------------|------------------------------------------|------------------------------------|
+| **Linux**        | General, personalizable  | Seguro, código abierto, eficiente       | Curva de aprendizaje inicial     |
+| **Ubuntu**       | Uso General / Servidores | Fácil de usar, soporte comunitario      | Menor compatibilidad que Windows |
+| **Kali Linux**   | Ciberseguridad           | Especializado, herramientas de pentesting | No apto para uso general         |
+| **Windows**      | Uso General / Gaming     | Interfaz intuitiva, software comercial  | Propietario, vulnerable a malware |
+| **macOS**        | Uso Profesional / Creativo | Estable, optimizado para hardware Apple | Costoso, menos personalizable    |
+
+![Uso de los S.O.](../imagenes/S.O%20uso%20en%202025.png)
+###### Gráfico que representa el uso de los sistemas operativos mencionados
+- Linux/Unix domina en servidores con soluciones flexibles y configurables.
+- Windows es la opción más común en empresas con su integración de AD.
+- macOS combina seguridad biométrica y su ecosistema Apple.
+
+>>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
