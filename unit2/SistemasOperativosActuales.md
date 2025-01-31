@@ -238,8 +238,7 @@ ________________________________________
 | Windows  | Uso General / Gaming  | Interfaz intuitiva, software comercial | Propietario, vulnerable a Malware |
 | Android | Moviles y loT | Personalizable, apps accesibles | Fragmentacion entre versiones |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ![Gráfico de SOA](imagenesSOA/png/Grafico.png "GráficoSoa")
 =======
 Apuntes: Sistemas Operativos Actuales
@@ -280,8 +279,7 @@ o	Interfaz gráfica: Utiliza entornos como XFCE para ser ligera y rápida.
 o	Modo Live: Permite ejecutarse desde un USB sin necesidad de instalación.
 o	Uso común: Pentesters, analistas de seguridad, y estudiantes de ciberseguridad.
 •	Nota: No se recomienda para usuarios generales debido a su enfoque técnico.
-<<<<<<< HEAD
->>>>>>> ab4c432 (Added first part of the document without format)
+
 =======
 
 ________________________________________
@@ -318,13 +316,9 @@ Ubuntu	Uso general / servidores	Fácil de usar, soporte comunitario	Menor compat
 Kali Linux	Ciberseguridad	Especializado, herramientas de pentesting.	No apto para uso general
 Windows	Uso general /gaming	Interfaz intuitiva, software comercial	Propietario, vulnerable a malware
 Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre versiones
->>>>>>> 362840c (Added second part of the document wihout format)
-=======
+
 ![GraficoMarketShareSO](../imagenes/GraficoMarketShareSO.png "GraficoMarketShareSO")
->>>>>>> a63ed26 (Moved image directory)
-=======
-=======
->>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
+
 ## 7. Gestión de Identidad y Acceso (IAM - Identity and Access Management) en Diferentes Sistemas Operativos
 
 - Es crucial para garantizar la seguridad en sistemas operativos, cada plataforma tiene su propio enfoque para administrar autenticación, autorización y control de acceso.
@@ -405,8 +399,3 @@ Android	Móviles / loT	Personalizable, apps accesibles	Fragmentación entre vers
 - Linux/Unix domina en servidores con soluciones flexibles y configurables.
 - Windows es la opción más común en empresas con su integración de AD.
 - macOS combina seguridad biométrica y su ecosistema Apple.
-
-<<<<<<< HEAD
->>>>>>> 1daa855 (Added more info to SistemasOperativosActuales)
-=======
->>>>>>> a011e1f (Added more info to SistemasOperativosActuales)
